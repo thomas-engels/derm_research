@@ -1,0 +1,52 @@
+state,x,y,abbreviation
+Alabama,139,-77,AL
+Alaska,-204,-170,AK
+Arizona,-203,-40,AZ
+Arkansas,57,-53,AR
+California,-297,13,CA
+Colorado,-112,20,CO
+Connecticut,297,96,CT
+Delaware,275,42,DE
+DC,250,20,DC
+Florida,220,-145,FL
+Georgia,182,-75,GA
+Hawaii,-317,-143,HI
+Idaho,-216,122,ID
+Illinois,95,37,IL
+Indiana,133,39,IN
+Iowa,38,65,IA
+Kansas,-17,5,KS
+Kentucky,149,1,KY
+Louisiana,59,-114,LA
+Maine,319,164,ME
+Maryland,288,27,MD
+Massachusetts,312,112,MA
+Michigan,148,101,MI
+Minnesota,23,135,MN
+Mississippi,94,-78,MS
+Missouri,49,6,MO
+Montana,-141,150,MT
+Nebraska,-61,66,NE
+Nevada,-257,56,NV
+New Hampshire,302,127,NH
+New Jersey,282,65,NJ
+New Mexico,-128,-43,NM
+New York,236,104,NY
+North Carolina,239,-22,NC
+North Dakota,-44,158,ND
+Ohio,176,52,OH
+Oklahoma,-8,-41,OK
+Oregon,-278,138,OR
+Pennsylvania,238,72,PA
+Rhode Island,318,94,RI
+South Carolina,218,-51,SC
+South Dakota,-44,109,SD
+Tennessee,131,-34,TN
+Texas,-38,-106,TX
+Utah,-189,34,UT
+Vermont,282,154,VT
+Virginia,234,12,VA
+Washington,-257,193,WA
+West Virginia,200,20,WV
+Wisconsin,83,113,WI
+Wyoming,-134,90,WY
